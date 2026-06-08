@@ -8,6 +8,18 @@ The work focuses on how incremental improvements in state design and reward shap
 
 ---
 
+## Motivation
+
+The purpose of this project is to explore how reinforcement learning agents behave under limited state representations and how reward design affects learning stability.
+
+Unlike deep learning approaches, this project focuses on tabular Q-learning to better understand the fundamentals of decision-making under uncertainty.
+
+## Demo
+
+https://raw.githubusercontent.com/oliviamartinezmartin/reinforcement-learning-snake/main/snake_samplevideo.mp4
+
+> Q-learning agent learning to play Snake through reward-driven exploration.
+
 ## Objective
 
 The goal of the project is to train an agent that can:
